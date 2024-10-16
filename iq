@@ -15,6 +15,7 @@ OSI model with each layer work
 TCP/IP
 TCP flags ["URG", "ACK", "PSH", "RST", "SYN", "FIN"]
 cloud responsibilities
+cspm, csbi, 
 encryption symmetric, asymmetric
 attack surface on cloud
 threat, vulnerability, risk, and how they linked with each other
