@@ -113,6 +113,31 @@ JWT (JSON Web Token) Vulnerabilities
 OAuth Vulnerabilities
 SAML Vulnerabilities
 Privilege Escalation (Vertical and Horizontal)
+What is penetration testing, and what are its main objectives?
+Can you explain the difference between penetration testing and vulnerability scanning?
+What are the different types of penetration tests (e.g., black box, white box, gray box)?
+What phases are typically involved in a penetration test?
+How do you gather information about a target during reconnaissance?
+What tools do you commonly use for reconnaissance and scanning?
+Can you describe the process of exploiting a vulnerability?
+How do you assess and report findings from a penetration test?
+What is the OWASP Top 10, and why is it relevant to penetration testing?
+How would you perform a web application penetration test?
+What common web vulnerabilities do you look for during testing?
+How do you test for SQL Injection vulnerabilities?
+What is Cross-Site Scripting (XSS), and how can it be exploited?
+How do you test for authentication and session management weaknesses?
+What are some techniques for privilege escalation during a penetration test?
+Can you explain the concept of lateral movement in a network?
+What tools do you use for post-exploitation activities?
+How do you handle sensitive data discovered during a penetration test?
+What is a penetration testing report, and what should it include?
+How do you ensure that your penetration testing practices are ethical and compliant with laws?
+What is social engineering, and how can it be tested?
+Can you explain the importance of documentation during a penetration test?
+How do you prioritize vulnerabilities found during a test?
+What steps do you take to prepare for a penetration test?
+How do you keep up with the latest vulnerabilities and exploits?
 
 Network Penetration Testing Tools
 ========================================
