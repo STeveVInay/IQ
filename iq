@@ -20,6 +20,8 @@ attack surface on cloud
 threat, vulnerability, risk, and how they linked with each other
 mitigation of attack on cloud
 data security in the cloud
+models of cloud (public, private, hybrid)
+Types of cloud services: IaaS vs. PaaS vs. SaaS vs. serverless models
 how do you keep yourself updated with the latest cyber news
 defense in depth
 how do you respond if any attack happens on your cloud
@@ -29,5 +31,33 @@ least access privilege
 Can you discuss a recent trend in Cybersecurity and explain how you have applied it in your work?
 what security framework do you use?
 what measures do you take in multi-cloud env
-OWASP TOP 10
-
+OWASP TOP 10 (xss, sqli, xxe, ssrf, ssti, lfi, rfi, command injection, rce, csrf, jwt, oauth, saml, privilege escalation [v, h] )
+AWS Security and Monitoring Services
+AWS Identity and Access Management (IAM)
+AWS Key Management Service (KMS)
+AWS CloudTrail
+Amazon GuardDuty
+AWS Security Hub
+AWS Web Application Firewall (WAF)
+AWS Shield
+AWS Inspector
+AWS Config
+AWS Macie
+Amazon CloudWatch
+AWS Trusted Advisor
+AWS CloudFormation (for security automation)
+Azure Security and Monitoring Services
+Azure Active Directory (AD)
+Azure Security Center
+Azure Key Vault
+Azure Sentinel
+Azure Firewall
+Azure DDoS Protection
+Azure Web Application Firewall (WAF)
+Azure Information Protection
+Azure Advanced Threat Protection (ATP)
+Azure Policy
+Azure Monitor
+Azure Log Analytics
+Azure Application Insights
+Azure Defender
