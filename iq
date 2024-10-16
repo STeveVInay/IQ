@@ -1,7 +1,19 @@
-before going to any interview please go through JD and make questions using ChatGPT
+before going to any interview please go through JD and ask questions using ChatGPT
+TCP 3-way handshake
+top computer ports
+FTP, DNS, DHCP, SMTP, SNMP, Telnet, SSH, HTTP, HTTPS, IMAP, POP3 including port no's and working
+IP address (private/public, loopback, APIPA, Subnets)
+MAC address
+firewall, IDS, IPS, WAF
 CIA 
+AAA
+VPN
+CDN
+LAN, WAN, Router, Switch, HUB, Load balancer
 zero trust
 OSI model with each layer work
+TCP/IP
+TCP flags ["URG", "ACK", "PSH", "RST", "SYN", "FIN"]
 cloud responsibilities
 encryption symmetric, asymmetric
 attack surface on cloud
@@ -17,3 +29,5 @@ least access privilege
 Can you discuss a recent trend in Cybersecurity and explain how you have applied it in your work?
 what security framework do you use?
 what measures do you take in multi-cloud env
+OWASP TOP 10
+
