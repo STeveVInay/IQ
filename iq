@@ -1,39 +1,65 @@
-before going to any interview please go through JD and ask questions using ChatGPT
-TCP 3-way handshake
-top computer ports
-FTP, DNS, DHCP, SMTP, SNMP, Telnet, SSH, HTTP, HTTPS, IMAP, POP3 including port no's and working
-IP address (private/public, loopback, APIPA, Subnets)
-MAC address
-firewall, IDS, IPS, WAF
-CIA 
-AAA
-VPN
-CDN
-LAN, WAN, Router, Switch, HUB, Load balancer
-zero trust
-OSI model with each layer work
-TCP/IP
-TCP flags ["URG", "ACK", "PSH", "RST", "SYN", "FIN"]
-cloud responsibilities
-cspm, csbi, 
-encryption symmetric, asymmetric
-attack surface on cloud
-threat, vulnerability, risk, and how they linked with each other
-mitigation of attack on cloud
-data security in the cloud
-models of cloud (public, private, hybrid)
-Types of cloud services: IaaS vs. PaaS vs. SaaS vs. serverless models
-how do you keep yourself updated with the latest cyber news
-defense in depth
-how do you respond if any attack happens on your cloud
-how do you know how secure an application is deployed
-who is responsible for data in the cloud 
-least access privilege
-Can you discuss a recent trend in Cybersecurity and explain how you have applied it in your work?
-what security framework do you use?
-what measures do you take in multi-cloud env
-OWASP TOP 10 (xss, sqli, xxe, ssrf, ssti, lfi, rfi, command injection, rce, csrf, jwt, oauth, saml, privilege escalation [v, h] )
-AWS Security and Monitoring Services
+Networking
+============
+TCP 3-Way Handshake
+Top Computer Ports:
+FTP (21)
+DNS (53)
+DHCP (67, 68)
+SMTP (25)
+SNMP (161, 162)
+Telnet (23)
+SSH (22)
+HTTP (80)
+HTTPS (443)
+IMAP (143)
+POP3 (110)
+IP Addressing:
+Private/Public
+Loopback
+APIPA
+Subnets
+MAC Address
+LAN, WAN, Router, Switch, Hub, Load Balancer
+OSI Model with Each Layer's Functionality
+TCP/IP Model
+TCP Flags:
+["URG", "ACK", "PSH", "RST", "SYN", "FIN"]
+
+Security Concepts
+====================
+CIA Triad
+AAA (Authentication, Authorization, Accounting)
+Zero Trust
+Defense in Depth
+Least Privilege Access
+Threat, Vulnerability, Risk (and how they are linked)
+Mitigation of Attacks on Cloud
+Data Security in the Cloud
+Recent Trends in Cybersecurity
+Security Frameworks
+How to Assess Application Security
+
+Cloud Computing
+=====================
+Responsibility for Data in the Cloud
+Cloud Models:
+Public
+Private
+Hybrid
+Types of Cloud Services:
+IaaS
+PaaS
+SaaS
+Serverless Models
+Attack Surface in the Cloud
+CSPM (Cloud Security Posture Management)
+CSBI (Cloud Security Benchmarking Initiative)
+How to Stay Updated on Cyber News
+Multi-Cloud Security Measures
+
+Cloud Security Services
+=====================================
+AWS Security and Monitoring Services:
 AWS Identity and Access Management (IAM)
 AWS Key Management Service (KMS)
 AWS CloudTrail
@@ -47,7 +73,9 @@ AWS Macie
 Amazon CloudWatch
 AWS Trusted Advisor
 AWS CloudFormation (for security automation)
-Azure Security and Monitoring Services
+
+Azure Security and Monitoring Services:
+=========================================
 Azure Active Directory (AD)
 Azure Security Center
 Azure Key Vault
@@ -62,3 +90,40 @@ Azure Monitor
 Azure Log Analytics
 Azure Application Insights
 Azure Defender
+
+Penetration Testing
+====================================
+OWASP Top 10 Vulnerabilities:
+XSS (Cross-Site Scripting)
+SQL Injection (SQLi)
+XML External Entity (XXE) Injection
+Server-Side Request Forgery (SSRF)
+Server-Side Template Injection (SSTI)
+Local File Inclusion (LFI)
+Remote File Inclusion (RFI)
+Command Injection
+Remote Code Execution (RCE)
+Cross-Site Request Forgery (CSRF)
+JWT (JSON Web Token) Vulnerabilities
+OAuth Vulnerabilities
+SAML Vulnerabilities
+Privilege Escalation (Vertical and Horizontal)
+
+Network Penetration Testing Tools
+========================================
+Nmap (Network mapping and port scanning)
+Wireshark (Network protocol analysis)
+Metasploit (Penetration testing framework)
+Burp Suite (Web application security testing)
+Nikto (Web server scanning)
+Aircrack-ng (Wireless network security auditing)
+OWASP ZAP (Web application security scanner)
+sqlmap (Automated SQL injection testing)
+
+Other Concepts
+==============================
+VPN (Virtual Private Network)
+CDN (Content Delivery Network)
+Encryption:
+Symmetric
+Asymmetric
