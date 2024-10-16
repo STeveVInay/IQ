@@ -24,6 +24,8 @@ OSI Model with Each Layer's Functionality
 TCP/IP Model
 TCP Flags:
 ["URG", "ACK", "PSH", "RST", "SYN", "FIN"]
+VPN (Virtual Private Network)
+CDN (Content Delivery Network)
 
 Security Concepts
 ====================
@@ -38,6 +40,9 @@ Data Security in the Cloud
 Recent Trends in Cybersecurity
 Security Frameworks
 How to Assess Application Security
+Encryption:
+Symmetric
+Asymmetric
 
 Cloud Computing
 =====================
@@ -119,11 +124,46 @@ Nikto (Web server scanning)
 Aircrack-ng (Wireless network security auditing)
 OWASP ZAP (Web application security scanner)
 sqlmap (Automated SQL injection testing)
+What is network penetration testing, and why is it important?
+Can you describe the phases of a penetration test?
+What tools do you commonly use for network scanning and reconnaissance?
+How do you identify live hosts on a network?
+What is Nmap, and how is it used in network penetration testing?
+How would you perform a vulnerability assessment on a network?
+What are the differences between active and passive reconnaissance?
+How can you test for open ports on a network device?
+What is the purpose of a firewall, and how do you test its effectiveness?
+Can you explain how to identify and exploit common network vulnerabilities?
+What techniques do you use to bypass network security controls?
+How do you test for misconfigured services on network devices?
+What is the role of penetration testing frameworks like Metasploit?
+How do you assess the security of a wireless network?
+What is ARP spoofing, and how can it be used in penetration testing?
+Can you explain the concept of pivoting in a network penetration test?
+How do you perform password cracking against network services?
+What are some common techniques for denial-of-service (DoS) testing?
+How would you test for weak encryption in network communications?
+What steps do you take to ensure that your penetration testing activities are legal and ethical?
 
-Other Concepts
-==============================
-VPN (Virtual Private Network)
-CDN (Content Delivery Network)
-Encryption:
-Symmetric
-Asymmetric
+API Penetration Testing Questions
+What is API security, and why is it important?
+Can you explain the differences between REST and SOAP APIs in terms of security?
+What common vulnerabilities do APIs face?
+How would you test for authentication flaws in an API?
+What is token-based authentication, and how can it be tested for security?
+How do you identify and exploit SQL injection vulnerabilities in APIs?
+What are the methods to test for Cross-Site Scripting (XSS) in API responses?
+How can you perform input validation testing on an API?
+What tools do you recommend for API security testing?
+Can you describe how to test for improper error handling in an API?
+What is Rate Limiting, and how can you test if it is implemented correctly?
+How would you assess an API's exposure of sensitive data?
+What is CSRF, and how can you test for it in APIs?
+How do you approach testing for insecure direct object references (IDOR) in an API?
+What is API fuzzing, and how is it performed?
+How do you evaluate API documentation for security weaknesses?
+What is the significance of CORS in API security, and how can it be tested?
+How would you test for security misconfigurations in an API?
+What is OAuth, and how do you test its implementation for vulnerabilities?
+How can you ensure that an API adheres to the principle of least privilege?
+
